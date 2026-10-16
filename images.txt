@@ -3,3 +3,4 @@ paradedb/paradedb:v0.22.2-pg17
 wechatopenai/weknora-app:latest
 wechatopenai/weknora-ui:latest
 wechatopenai/weknora-docreader:latest
+wechatopenai/weknora-sandbox:latest
